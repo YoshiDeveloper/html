@@ -1,0 +1,106 @@
+ .u-section-1 {
+  background-image: url("images/BMW-M4-blue-001-05ef5f9553034f1f.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 669px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 54px 750px 60px -80px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 552px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 650px;
+    width: 470px;
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 423px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 540px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 317px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 450px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 200px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 350px;
+    width: 340px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/2021-bmw-m5-cs.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: -8px auto 60px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
